@@ -2,13 +2,14 @@
 #include <stdlib.h>
 #include "cuda_prac.h"
 
-void init_matrix(float *a, float *b, float *c, long long dim_x, long long dim_y, bool flag){
+void init_matrix(float *a, float *b, float *c, long long dim_x, long long dim_y, int flag){
 
 	long long idx = 0;
 	long long ix = 0;
 	long long iy = 0;
 
-	if(flag){
+	if(flag == 1)
+	{
 		for(iy = 0; iy < dim_y; iy++)
 		{
 			for(ix = 0; ix < dim_x; ix++)
@@ -19,19 +20,20 @@ void init_matrix(float *a, float *b, float *c, long long dim_x, long long dim_y,
 				c[idx] = a[idx] + b[idx];
 			}
 		}
-
+		
 		return;
 	}
 	
 
-	for(ix = 0; ix < dim_x; ix++)
+	while(ix < dim_x || iy < dim_y)
 	{
 		idx = iy * dim_y + ix;
-		if(ix < dim_x)
+		if(ix < dim_x && iy < dim_y)
 		{
 			a[idx] = idx;
 			b[idx] = 1 / (idx + 1);
 			c[idx] = a[idx] + b[idx];
+			ix++;
 		}
 		
 		else
@@ -53,7 +55,7 @@ void init_matrix(float *a, float *b, float *c, long long dim_x, long long dim_y,
 int main(int argc, char** argv){
 
 	long long N = atoi(argv[1]);
-	bool flag = argv[2];
+	int flag = atoi(argv[2]);
 	
 	float *a, *b, *c;
 	size_t size = sizeof(float);
