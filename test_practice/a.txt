@@ -1,0 +1,1726 @@
+cp
+GPU
+GPU -a
+GPU -b'
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+a.txt
+checkDeviceInfor
+checkDeviceInfor.cu
+checkDimension
+checkDimension.cu
+checkThreadIndex
+checkThreadIndex.cu
+defineGridBlock
+defineGridBlock.cu
+hello
+hello.cu
+lib
+sumArraysOnGPU-small-case
+sumArraysOnGPU-small-case.cu
+sumArraysOnGPU-timer
+sumArraysOnGPU-timer.cu
+sumArraysOnHost
+sumArraysOnHost.cu
+sumMatrixOnGPU-2D-grid-1D-block
+sumMatrixOnGPU-2D-grid-1D-block.cu
+sumMatrixOnGPU-2D-grid-2D-block
+sumMatrixOnGPU-2D-grid-2D-block.cu
+total 6072
+-rw-rw-r-- 1 kljp kljp  27926 12월 16 19:46 a.txt
+-rwxrwxr-x 1 kljp kljp 611272 12월 16 02:09 checkDeviceInfor
+-rw-rw-r-- 1 kljp kljp   3148 12월 16 02:09 checkDeviceInfor.cu
+-rwxrwxr-x 1 kljp kljp 611496 12월 13 19:13 checkDimension
+-rw-rw-r-- 1 kljp kljp    642 12월 13 19:12 checkDimension.cu
+-rwxrwxr-x 1 kljp kljp 611664 12월 15 03:34 checkThreadIndex
+-rw-rw-r-- 1 kljp kljp   1935 12월 15 03:34 checkThreadIndex.cu
+-rwxrwxr-x 1 kljp kljp 607184 12월 15 00:58 defineGridBlock
+-rw-rw-r-- 1 kljp kljp    568 12월 15 00:40 defineGridBlock.cu
+-rwxrwxr-x 1 kljp kljp 611720 12월 13 00:33 hello
+-rw-rw-r-- 1 kljp kljp    240 12월 13 02:17 hello.cu
+drwxrwxr-x 2 kljp kljp   4096 12월 16 00:26 lib
+-rwxrwxr-x 1 kljp kljp 611936 12월 14 20:41 sumArraysOnGPU-small-case
+-rw-rw-r-- 1 kljp kljp   2443 12월 14 20:55 sumArraysOnGPU-small-case.cu
+-rwxrwxr-x 1 kljp kljp 611976 12월 15 01:26 sumArraysOnGPU-timer
+-rw-rw-r-- 1 kljp kljp   3070 12월 15 01:26 sumArraysOnGPU-timer.cu
+-rwxrwxr-x 1 kljp kljp 607264 12월 13 02:29 sumArraysOnHost
+-rw-rw-r-- 1 kljp kljp    727 12월 13 02:29 sumArraysOnHost.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-1D-block
+-rw-rw-r-- 1 kljp kljp   2403 12월 16 01:57 sumMatrixOnGPU-2D-grid-1D-block.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block
+-rw-rw-r-- 1 kljp kljp   2460 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block.cu
+total 6076
+-rw-rw-r-- 1 kljp kljp  29363 12월 16 19:46 a.txt
+-rwxrwxr-x 1 kljp kljp 611272 12월 16 02:09 checkDeviceInfor
+-rw-rw-r-- 1 kljp kljp   3148 12월 16 02:09 checkDeviceInfor.cu
+-rwxrwxr-x 1 kljp kljp 611496 12월 13 19:13 checkDimension
+-rw-rw-r-- 1 kljp kljp    642 12월 13 19:12 checkDimension.cu
+-rwxrwxr-x 1 kljp kljp 611664 12월 15 03:34 checkThreadIndex
+-rw-rw-r-- 1 kljp kljp   1935 12월 15 03:34 checkThreadIndex.cu
+-rwxrwxr-x 1 kljp kljp 607184 12월 15 00:58 defineGridBlock
+-rw-rw-r-- 1 kljp kljp    568 12월 15 00:40 defineGridBlock.cu
+-rwxrwxr-x 1 kljp kljp 611720 12월 13 00:33 hello
+-rw-rw-r-- 1 kljp kljp    240 12월 13 02:17 hello.cu
+drwxrwxr-x 2 kljp kljp   4096 12월 16 00:26 lib
+-rwxrwxr-x 1 kljp kljp 611936 12월 14 20:41 sumArraysOnGPU-small-case
+-rw-rw-r-- 1 kljp kljp   2443 12월 14 20:55 sumArraysOnGPU-small-case.cu
+-rwxrwxr-x 1 kljp kljp 611976 12월 15 01:26 sumArraysOnGPU-timer
+-rw-rw-r-- 1 kljp kljp   3070 12월 15 01:26 sumArraysOnGPU-timer.cu
+-rwxrwxr-x 1 kljp kljp 607264 12월 13 02:29 sumArraysOnHost
+-rw-rw-r-- 1 kljp kljp    727 12월 13 02:29 sumArraysOnHost.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-1D-block
+-rw-rw-r-- 1 kljp kljp   2403 12월 16 01:57 sumMatrixOnGPU-2D-grid-1D-block.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block
+-rw-rw-r-- 1 kljp kljp   2460 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block.cu
+total 6076
+-rw-rw-r-- 1 kljp kljp  30800 12월 16 19:46 a.txt
+-rwxrwxr-x 1 kljp kljp 611272 12월 16 02:09 checkDeviceInfor
+-rw-rw-r-- 1 kljp kljp   3148 12월 16 02:09 checkDeviceInfor.cu
+-rwxrwxr-x 1 kljp kljp 611496 12월 13 19:13 checkDimension
+-rw-rw-r-- 1 kljp kljp    642 12월 13 19:12 checkDimension.cu
+-rwxrwxr-x 1 kljp kljp 611664 12월 15 03:34 checkThreadIndex
+-rw-rw-r-- 1 kljp kljp   1935 12월 15 03:34 checkThreadIndex.cu
+-rwxrwxr-x 1 kljp kljp 607184 12월 15 00:58 defineGridBlock
+-rw-rw-r-- 1 kljp kljp    568 12월 15 00:40 defineGridBlock.cu
+-rwxrwxr-x 1 kljp kljp 611720 12월 13 00:33 hello
+-rw-rw-r-- 1 kljp kljp    240 12월 13 02:17 hello.cu
+drwxrwxr-x 2 kljp kljp   4096 12월 16 00:26 lib
+-rwxrwxr-x 1 kljp kljp 611936 12월 14 20:41 sumArraysOnGPU-small-case
+-rw-rw-r-- 1 kljp kljp   2443 12월 14 20:55 sumArraysOnGPU-small-case.cu
+-rwxrwxr-x 1 kljp kljp 611976 12월 15 01:26 sumArraysOnGPU-timer
+-rw-rw-r-- 1 kljp kljp   3070 12월 15 01:26 sumArraysOnGPU-timer.cu
+-rwxrwxr-x 1 kljp kljp 607264 12월 13 02:29 sumArraysOnHost
+-rw-rw-r-- 1 kljp kljp    727 12월 13 02:29 sumArraysOnHost.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-1D-block
+-rw-rw-r-- 1 kljp kljp   2403 12월 16 01:57 sumMatrixOnGPU-2D-grid-1D-block.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block
+-rw-rw-r-- 1 kljp kljp   2460 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block.cu
+total 6076
+-rw-rw-r-- 1 kljp kljp  32237 12월 16 19:46 a.txt
+-rwxrwxr-x 1 kljp kljp 611272 12월 16 02:09 checkDeviceInfor
+-rw-rw-r-- 1 kljp kljp   3148 12월 16 02:09 checkDeviceInfor.cu
+-rwxrwxr-x 1 kljp kljp 611496 12월 13 19:13 checkDimension
+-rw-rw-r-- 1 kljp kljp    642 12월 13 19:12 checkDimension.cu
+-rwxrwxr-x 1 kljp kljp 611664 12월 15 03:34 checkThreadIndex
+-rw-rw-r-- 1 kljp kljp   1935 12월 15 03:34 checkThreadIndex.cu
+-rwxrwxr-x 1 kljp kljp 607184 12월 15 00:58 defineGridBlock
+-rw-rw-r-- 1 kljp kljp    568 12월 15 00:40 defineGridBlock.cu
+-rwxrwxr-x 1 kljp kljp 611720 12월 13 00:33 hello
+-rw-rw-r-- 1 kljp kljp    240 12월 13 02:17 hello.cu
+drwxrwxr-x 2 kljp kljp   4096 12월 16 00:26 lib
+-rwxrwxr-x 1 kljp kljp 611936 12월 14 20:41 sumArraysOnGPU-small-case
+-rw-rw-r-- 1 kljp kljp   2443 12월 14 20:55 sumArraysOnGPU-small-case.cu
+-rwxrwxr-x 1 kljp kljp 611976 12월 15 01:26 sumArraysOnGPU-timer
+-rw-rw-r-- 1 kljp kljp   3070 12월 15 01:26 sumArraysOnGPU-timer.cu
+-rwxrwxr-x 1 kljp kljp 607264 12월 13 02:29 sumArraysOnHost
+-rw-rw-r-- 1 kljp kljp    727 12월 13 02:29 sumArraysOnHost.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-1D-block
+-rw-rw-r-- 1 kljp kljp   2403 12월 16 01:57 sumMatrixOnGPU-2D-grid-1D-block.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block
+-rw-rw-r-- 1 kljp kljp   2460 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block.cu
+total 6080
+-rw-rw-r-- 1 kljp kljp  33674 12월 16 19:46 a.txt
+-rwxrwxr-x 1 kljp kljp 611272 12월 16 02:09 checkDeviceInfor
+-rw-rw-r-- 1 kljp kljp   3148 12월 16 02:09 checkDeviceInfor.cu
+-rwxrwxr-x 1 kljp kljp 611496 12월 13 19:13 checkDimension
+-rw-rw-r-- 1 kljp kljp    642 12월 13 19:12 checkDimension.cu
+-rwxrwxr-x 1 kljp kljp 611664 12월 15 03:34 checkThreadIndex
+-rw-rw-r-- 1 kljp kljp   1935 12월 15 03:34 checkThreadIndex.cu
+-rwxrwxr-x 1 kljp kljp 607184 12월 15 00:58 defineGridBlock
+-rw-rw-r-- 1 kljp kljp    568 12월 15 00:40 defineGridBlock.cu
+-rwxrwxr-x 1 kljp kljp 611720 12월 13 00:33 hello
+-rw-rw-r-- 1 kljp kljp    240 12월 13 02:17 hello.cu
+drwxrwxr-x 2 kljp kljp   4096 12월 16 00:26 lib
+-rwxrwxr-x 1 kljp kljp 611936 12월 14 20:41 sumArraysOnGPU-small-case
+-rw-rw-r-- 1 kljp kljp   2443 12월 14 20:55 sumArraysOnGPU-small-case.cu
+-rwxrwxr-x 1 kljp kljp 611976 12월 15 01:26 sumArraysOnGPU-timer
+-rw-rw-r-- 1 kljp kljp   3070 12월 15 01:26 sumArraysOnGPU-timer.cu
+-rwxrwxr-x 1 kljp kljp 607264 12월 13 02:29 sumArraysOnHost
+-rw-rw-r-- 1 kljp kljp    727 12월 13 02:29 sumArraysOnHost.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-1D-block
+-rw-rw-r-- 1 kljp kljp   2403 12월 16 01:57 sumMatrixOnGPU-2D-grid-1D-block.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block
+-rw-rw-r-- 1 kljp kljp   2460 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block.cu
+total 6080
+-rw-rw-r-- 1 kljp kljp  35111 12월 16 19:46 a.txt
+-rwxrwxr-x 1 kljp kljp 611272 12월 16 02:09 checkDeviceInfor
+-rw-rw-r-- 1 kljp kljp   3148 12월 16 02:09 checkDeviceInfor.cu
+-rwxrwxr-x 1 kljp kljp 611496 12월 13 19:13 checkDimension
+-rw-rw-r-- 1 kljp kljp    642 12월 13 19:12 checkDimension.cu
+-rwxrwxr-x 1 kljp kljp 611664 12월 15 03:34 checkThreadIndex
+-rw-rw-r-- 1 kljp kljp   1935 12월 15 03:34 checkThreadIndex.cu
+-rwxrwxr-x 1 kljp kljp 607184 12월 15 00:58 defineGridBlock
+-rw-rw-r-- 1 kljp kljp    568 12월 15 00:40 defineGridBlock.cu
+-rwxrwxr-x 1 kljp kljp 611720 12월 13 00:33 hello
+-rw-rw-r-- 1 kljp kljp    240 12월 13 02:17 hello.cu
+drwxrwxr-x 2 kljp kljp   4096 12월 16 00:26 lib
+-rwxrwxr-x 1 kljp kljp 611936 12월 14 20:41 sumArraysOnGPU-small-case
+-rw-rw-r-- 1 kljp kljp   2443 12월 14 20:55 sumArraysOnGPU-small-case.cu
+-rwxrwxr-x 1 kljp kljp 611976 12월 15 01:26 sumArraysOnGPU-timer
+-rw-rw-r-- 1 kljp kljp   3070 12월 15 01:26 sumArraysOnGPU-timer.cu
+-rwxrwxr-x 1 kljp kljp 607264 12월 13 02:29 sumArraysOnHost
+-rw-rw-r-- 1 kljp kljp    727 12월 13 02:29 sumArraysOnHost.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-1D-block
+-rw-rw-r-- 1 kljp kljp   2403 12월 16 01:57 sumMatrixOnGPU-2D-grid-1D-block.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block
+-rw-rw-r-- 1 kljp kljp   2460 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block.cu
+total 6080
+-rw-rw-r-- 1 kljp kljp  36548 12월 16 19:46 a.txt
+-rwxrwxr-x 1 kljp kljp 611272 12월 16 02:09 checkDeviceInfor
+-rw-rw-r-- 1 kljp kljp   3148 12월 16 02:09 checkDeviceInfor.cu
+-rwxrwxr-x 1 kljp kljp 611496 12월 13 19:13 checkDimension
+-rw-rw-r-- 1 kljp kljp    642 12월 13 19:12 checkDimension.cu
+-rwxrwxr-x 1 kljp kljp 611664 12월 15 03:34 checkThreadIndex
+-rw-rw-r-- 1 kljp kljp   1935 12월 15 03:34 checkThreadIndex.cu
+-rwxrwxr-x 1 kljp kljp 607184 12월 15 00:58 defineGridBlock
+-rw-rw-r-- 1 kljp kljp    568 12월 15 00:40 defineGridBlock.cu
+-rwxrwxr-x 1 kljp kljp 611720 12월 13 00:33 hello
+-rw-rw-r-- 1 kljp kljp    240 12월 13 02:17 hello.cu
+drwxrwxr-x 2 kljp kljp   4096 12월 16 00:26 lib
+-rwxrwxr-x 1 kljp kljp 611936 12월 14 20:41 sumArraysOnGPU-small-case
+-rw-rw-r-- 1 kljp kljp   2443 12월 14 20:55 sumArraysOnGPU-small-case.cu
+-rwxrwxr-x 1 kljp kljp 611976 12월 15 01:26 sumArraysOnGPU-timer
+-rw-rw-r-- 1 kljp kljp   3070 12월 15 01:26 sumArraysOnGPU-timer.cu
+-rwxrwxr-x 1 kljp kljp 607264 12월 13 02:29 sumArraysOnHost
+-rw-rw-r-- 1 kljp kljp    727 12월 13 02:29 sumArraysOnHost.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-1D-block
+-rw-rw-r-- 1 kljp kljp   2403 12월 16 01:57 sumMatrixOnGPU-2D-grid-1D-block.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block
+-rw-rw-r-- 1 kljp kljp   2460 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block.cu
+total 6084
+-rw-rw-r-- 1 kljp kljp  37985 12월 16 19:46 a.txt
+-rwxrwxr-x 1 kljp kljp 611272 12월 16 02:09 checkDeviceInfor
+-rw-rw-r-- 1 kljp kljp   3148 12월 16 02:09 checkDeviceInfor.cu
+-rwxrwxr-x 1 kljp kljp 611496 12월 13 19:13 checkDimension
+-rw-rw-r-- 1 kljp kljp    642 12월 13 19:12 checkDimension.cu
+-rwxrwxr-x 1 kljp kljp 611664 12월 15 03:34 checkThreadIndex
+-rw-rw-r-- 1 kljp kljp   1935 12월 15 03:34 checkThreadIndex.cu
+-rwxrwxr-x 1 kljp kljp 607184 12월 15 00:58 defineGridBlock
+-rw-rw-r-- 1 kljp kljp    568 12월 15 00:40 defineGridBlock.cu
+-rwxrwxr-x 1 kljp kljp 611720 12월 13 00:33 hello
+-rw-rw-r-- 1 kljp kljp    240 12월 13 02:17 hello.cu
+drwxrwxr-x 2 kljp kljp   4096 12월 16 00:26 lib
+-rwxrwxr-x 1 kljp kljp 611936 12월 14 20:41 sumArraysOnGPU-small-case
+-rw-rw-r-- 1 kljp kljp   2443 12월 14 20:55 sumArraysOnGPU-small-case.cu
+-rwxrwxr-x 1 kljp kljp 611976 12월 15 01:26 sumArraysOnGPU-timer
+-rw-rw-r-- 1 kljp kljp   3070 12월 15 01:26 sumArraysOnGPU-timer.cu
+-rwxrwxr-x 1 kljp kljp 607264 12월 13 02:29 sumArraysOnHost
+-rw-rw-r-- 1 kljp kljp    727 12월 13 02:29 sumArraysOnHost.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-1D-block
+-rw-rw-r-- 1 kljp kljp   2403 12월 16 01:57 sumMatrixOnGPU-2D-grid-1D-block.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block
+-rw-rw-r-- 1 kljp kljp   2460 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block.cu
+total 6084
+-rw-rw-r-- 1 kljp kljp  39422 12월 16 19:46 a.txt
+-rwxrwxr-x 1 kljp kljp 611272 12월 16 02:09 checkDeviceInfor
+-rw-rw-r-- 1 kljp kljp   3148 12월 16 02:09 checkDeviceInfor.cu
+-rwxrwxr-x 1 kljp kljp 611496 12월 13 19:13 checkDimension
+-rw-rw-r-- 1 kljp kljp    642 12월 13 19:12 checkDimension.cu
+-rwxrwxr-x 1 kljp kljp 611664 12월 15 03:34 checkThreadIndex
+-rw-rw-r-- 1 kljp kljp   1935 12월 15 03:34 checkThreadIndex.cu
+-rwxrwxr-x 1 kljp kljp 607184 12월 15 00:58 defineGridBlock
+-rw-rw-r-- 1 kljp kljp    568 12월 15 00:40 defineGridBlock.cu
+-rwxrwxr-x 1 kljp kljp 611720 12월 13 00:33 hello
+-rw-rw-r-- 1 kljp kljp    240 12월 13 02:17 hello.cu
+drwxrwxr-x 2 kljp kljp   4096 12월 16 00:26 lib
+-rwxrwxr-x 1 kljp kljp 611936 12월 14 20:41 sumArraysOnGPU-small-case
+-rw-rw-r-- 1 kljp kljp   2443 12월 14 20:55 sumArraysOnGPU-small-case.cu
+-rwxrwxr-x 1 kljp kljp 611976 12월 15 01:26 sumArraysOnGPU-timer
+-rw-rw-r-- 1 kljp kljp   3070 12월 15 01:26 sumArraysOnGPU-timer.cu
+-rwxrwxr-x 1 kljp kljp 607264 12월 13 02:29 sumArraysOnHost
+-rw-rw-r-- 1 kljp kljp    727 12월 13 02:29 sumArraysOnHost.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-1D-block
+-rw-rw-r-- 1 kljp kljp   2403 12월 16 01:57 sumMatrixOnGPU-2D-grid-1D-block.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block
+-rw-rw-r-- 1 kljp kljp   2460 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block.cu
+total 6084
+-rw-rw-r-- 1 kljp kljp  40859 12월 16 19:46 a.txt
+-rwxrwxr-x 1 kljp kljp 611272 12월 16 02:09 checkDeviceInfor
+-rw-rw-r-- 1 kljp kljp   3148 12월 16 02:09 checkDeviceInfor.cu
+-rwxrwxr-x 1 kljp kljp 611496 12월 13 19:13 checkDimension
+-rw-rw-r-- 1 kljp kljp    642 12월 13 19:12 checkDimension.cu
+-rwxrwxr-x 1 kljp kljp 611664 12월 15 03:34 checkThreadIndex
+-rw-rw-r-- 1 kljp kljp   1935 12월 15 03:34 checkThreadIndex.cu
+-rwxrwxr-x 1 kljp kljp 607184 12월 15 00:58 defineGridBlock
+-rw-rw-r-- 1 kljp kljp    568 12월 15 00:40 defineGridBlock.cu
+-rwxrwxr-x 1 kljp kljp 611720 12월 13 00:33 hello
+-rw-rw-r-- 1 kljp kljp    240 12월 13 02:17 hello.cu
+drwxrwxr-x 2 kljp kljp   4096 12월 16 00:26 lib
+-rwxrwxr-x 1 kljp kljp 611936 12월 14 20:41 sumArraysOnGPU-small-case
+-rw-rw-r-- 1 kljp kljp   2443 12월 14 20:55 sumArraysOnGPU-small-case.cu
+-rwxrwxr-x 1 kljp kljp 611976 12월 15 01:26 sumArraysOnGPU-timer
+-rw-rw-r-- 1 kljp kljp   3070 12월 15 01:26 sumArraysOnGPU-timer.cu
+-rwxrwxr-x 1 kljp kljp 607264 12월 13 02:29 sumArraysOnHost
+-rw-rw-r-- 1 kljp kljp    727 12월 13 02:29 sumArraysOnHost.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-1D-block
+-rw-rw-r-- 1 kljp kljp   2403 12월 16 01:57 sumMatrixOnGPU-2D-grid-1D-block.cu
+-rwxrwxr-x 1 kljp kljp 616448 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block
+-rw-rw-r-- 1 kljp kljp   2460 12월 16 01:58 sumMatrixOnGPU-2D-grid-2D-block.cu
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
