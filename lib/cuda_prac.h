@@ -1,5 +1,5 @@
-#ifndef CUDA_PARC_H
-#define HDR1_H
+#ifndef CUDA_PRAC_H
+#define CUDA_PRAC_H
 
 #define CHECK(call)																			\
 {																									\
