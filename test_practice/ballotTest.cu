@@ -19,7 +19,7 @@ __global__ void ffs_test(){
 
 int main(){
 
-	//ballot_test <<<1, 32 * 4>>> ();
+	ballot_test <<<1, 32>>> ();
 	ffs_test <<<1, 32>>> ();
 
 	cudaDeviceReset();
