@@ -27,7 +27,7 @@ __global__ void wcws(float *a){
 	node = (Node *) malloc(sizeof(Node));
 	node->idx = laneID;
 	node->hasNext = reinterpret_cast<Node *>(__shfl_up_sync(0xFFFFFFFF, reinterpret_cast<uintptr_t>(node), 1));
-   printf("%p\n", node);    
+   printf("%p %p\n", &(node->idx), &(node->hasNext));    
 	return node;
 }
 
@@ -37,7 +37,7 @@ __global__ void wcws_insert(){
 	int laneID = threadIdx.x % 32;
 	
 	ds[laneID] = wcws_allocate(laneID);
-	printf("%d\n", ds[laneID]->idx);
+	//printf("%d\n", ds[laneID]->idx);
 }
 
 int main(int argc, char** argv){
@@ -52,6 +52,8 @@ int main(int argc, char** argv){
 	dim3 grid(nElem / block.x);
 
 	wcws_insert <<<grid, block>>> ();
+
+	cudaDeviceReset();
 
 	return 0;
 }
